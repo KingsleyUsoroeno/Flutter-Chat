@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "484415399841",
+    "firebase_url": "https://flash-chat-3fbab.firebaseio.com",
+    "project_id": "flash-chat-3fbab",
+    "storage_bucket": "flash-chat-3fbab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484415399841:android:44734bf3ab648b0f1c4de0",
+        "android_client_info": {
+          "package_name": "co.kingtech.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484415399841-5p5dbosjtemqeood42qk6s1o75uq2o6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-c20Gjl1cWRvPGHqc5rXn29gTshZ4rJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484415399841-5p5dbosjtemqeood42qk6s1o75uq2o6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
